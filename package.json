@@ -1,7 +1,7 @@
 {
   "name": "@mls-digital/pokeball",
   "author": "MLS",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Async try/catch helper",
   "main": "index.js",
   "repository": {
