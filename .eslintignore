@@ -1,0 +1,5 @@
+*.ignore.js
+.git/*
+build/*
+coverage/*
+jest/*

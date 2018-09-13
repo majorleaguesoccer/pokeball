@@ -1,0 +1,20 @@
+{
+  "name": "@mls-digital/pokeball",
+  "author": "MLS",
+  "version": "0.0.0",
+  "description": "Async try/catch helper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/majorleaguesoccer/pokeball.git"
+  },
+  "scripts": {
+    "test": "yarn lint && mocha -R spec test.js",
+    "lint": "eslint ./"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "5.5.0",
+    "mocha": "5.2.0"
+  }
+}
